@@ -44,5 +44,3 @@ During this project, I learned:
 💾 Persistent data storage techniques in C.
 🧑‍💻 Using Git and GitHub for source control and documentation.
 
-## 📂 Project Structure
-
